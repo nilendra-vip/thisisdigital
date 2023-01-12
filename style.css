@@ -293,12 +293,16 @@ html,body{
 }
 
 
+
+img{
+    border-radius: 30px;
+}
 #page1 #img1{
     /* width: 100px; */
     height: 500px;
     position: absolute;
     top: 15vh;
-    left: 10vw;    
+    left: 10vw;  
 }
 
 #page1 #img2{
